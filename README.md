@@ -33,7 +33,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vents04&show_icons=true&theme=tokyonight)
 
 ## 🎯 Hobbies
 - ✈️ Traveling
