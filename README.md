@@ -31,10 +31,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vents04&show_icons=true&theme=tokyonight)
-
 ## 🎯 Hobbies
 - ✈️ Traveling
 - 🏓 Table Tennis 
