@@ -39,3 +39,4 @@
 ## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ventsislav-dimitrov-791814184)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ventsislav.georgiev.dimitrov@gmail.com)
